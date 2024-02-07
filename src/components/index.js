@@ -2,7 +2,7 @@ import Select from "./Select";
 import Header from "./Header/Header";
 import Footer from "./Footer/Footer";
 import Container from "./container/Container";
-import Logo1 from "./Logo1";
+import SiteLogo from "./SiteLogo";
 import LogoutBtn from "./Header/LogoutBtn";
 import RTE from "./RTE";
 import Signup from "./Signup";
@@ -16,7 +16,7 @@ export {
     Header,
     Footer,
     Container,
-    Logo1,
+    SiteLogo,
     LogoutBtn,
     RTE,
     Signup,
